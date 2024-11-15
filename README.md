@@ -1,4 +1,4 @@
-# Taken FRom Blazer
+# Taken From Blazer
 
 This is a template from Blazer Make sure you go sub to him his a really cool guy
 
