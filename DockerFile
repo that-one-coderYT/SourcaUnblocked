@@ -36,5 +36,5 @@ COPY --from=prerelease /usr/src/app/tsconfig.json .
 # run the app
 USER bun
 ARG PORT
-EXPOSE ${PORT:-3000}
+EXPOSE ${PORT:-8000}
 CMD [ "bun", "start" ]
