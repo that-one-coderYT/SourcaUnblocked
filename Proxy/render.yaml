@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: Skylight
+    env: docker
+    repo: https://github.com/techarb2/Skylight
+    region: oregon
+    plan: free
+    branch: main
+    numInstances: 1
+    healthCheckPath: /
